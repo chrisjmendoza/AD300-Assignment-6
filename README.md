@@ -29,34 +29,63 @@ The Traversal method should print for every leaf node the following info
 
 The File foxtext.txt should create the following output:
 
+
 'o' 000 4
+
 'a' 001 4
+
 'g' 01000 1
+
 'j' 01001 1
+
 'm' 01010 1
+
 'u' 010110 1
+
 'i' 010111 1
+
 '
+
 ' 0110 3
+
 'b' 011100 1
+
 'x' 011101 1
+
 'z' 011110 1
+
 'y' 011111 1
+
 't' 10000 2
+
 'v' 100010 1
+
 'l' 100011 1
+
 'e' 1001 4
+
 'n' 10100 2
+
 ''' 101010 1
+
 's' 101011 1
+
 'f' 10110 2
+
 'h' 10111 2
+
 'c' 110000 1
+
 'p' 110001 1
+
 'r' 11001 2
+
 'T' 110100 1
+
 'w' 110101 1
+
 'd' 11011 2
+
 ' ' 111 8
 
 As you can see in the "broken line" between 'i' and 'b' the newline character creates a newline in the output. 
